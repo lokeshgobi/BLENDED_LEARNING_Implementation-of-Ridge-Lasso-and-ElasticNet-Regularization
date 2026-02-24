@@ -111,9 +111,8 @@ plt.show()
 
 ## Output:
 
-![alt text](1111.jpeg)
+<img width="1296" height="516" alt="Screenshot 2026-02-24 150016" src="https://github.com/user-attachments/assets/61f3a2fc-0a18-4a36-9907-e978692ac8a9" />
 
-![alt text](2222.jpeg)
 
 ## Result:
 Thus, Ridge, Lasso, and ElasticNet regularization models were implemented successfully to predict the car price and the model's performance was evaluated using R² score and Mean Squared Error.
